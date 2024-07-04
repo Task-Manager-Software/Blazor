@@ -1,1 +1,1 @@
-# Frontend_Blazor
+# Blazor
